@@ -1,7 +1,10 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+Hello and welcome to this blog created on September 4th 2020
 
-![Image of fast.ai logo](images/logo.png)
+![logo](images/logo_fqf.png)
 
-## This is a title
+## The Purposes of this Blog 
+* To increase the intensity of your learning experience
+* To help in the development of your projects
+* To share examples and insights 
+* ....
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
